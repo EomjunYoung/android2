@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="init_color">#313944</color>
+    <color name="login_input">#6D6D6D</color>
+    <color name="login_input_back">#C9CACA</color>
+    <color name="login_button">#00A0E9</color>
+    <color name="main_upper">#090c10</color>
+    <color name="table_time">#DDDDDD</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
